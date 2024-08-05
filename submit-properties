@@ -1,0 +1,9 @@
+# Script for the Submit form 
+# Add an action - Mouse up - Run a JavaScript
+# Cited - https://www.youtube.com/watch?v=4zoL-lIukb4
+
+# pulling data from Name Field and Date Field. File name will be " Deposit Transfer - Name - Date.pdf "
+
+var nameField = "Deposit Transfer - " + this.getField("NameField").value + " - " + this.getField("DateField") + ".pdf";
+nameField = "/p/Housing/Business/Document Hub/Deposit Transfer/" + nameField
+myTrustedSpecialTaskFunc(this, nameField);
