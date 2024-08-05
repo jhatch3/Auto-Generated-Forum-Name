@@ -10,7 +10,10 @@
 - Scripts made by SAR Solutions of Sars Solutions on Youtube. (https://www.youtube.com/watch?v=4zoL-lIukb4).
 
 # What I have learned
-- This was my first time coding for an employer, and I was excited to tackle this project. Although the scripts were taken from SAR Solutions (https://www.youtube.com/watch?v=4zoL-lIukb4), I still learned a lot of valuable things. Such as the back and forths of working with someone and getting all the necessary needs of a project from someone who does not necessarily code. This is a lot different than looking at a canvas project written by my C.S. professors and knowing what is asked. As well, I had to do my own research, no slides to go look back at. Only in my second year, I have yet to learn about JS and use it within Adobe. Within a day's time, I had learned all about Adobe forums, and the JS needed. I was able to understand the Scrip SAR Solutions provided and was able to make the changes needed to satisfy my needs. Overall a great project, but might be a dead end if every machine needs admin login to run script.
+- This was my first experience coding for an employer, and I was happy to take on the project. Although the scripts I used were sourced from SAR Solutions (https://www.youtube.com/watch?v=4zoL-lIukb4), I gained a lot of valuable insights. I learned about the  process of collaborating with someone to understand and meet project requirements, especially when working with clients who aren’t familiar with coding. This was quite different from working on assignments provided by my computer science professors, where the expectations were clear.
+
+- Additionally, I had to conduct my own research without slides or direct guidance. As a second-year student with limited exposure to JavaScript and its use within Adobe products, I quickly familiarized myself with Adobe forums and the required scripting. In a single day, I was able to grasp the JavaScript concepts needed, understand the SAR Solutions scripts, and modify them to meet my needs. Overall, it was a rewarding project, though it might face challenges if every machine requires an admin login to execute the script.
+
 
 # TODO 
 - Fix saving logic. To work on all machines without needing test.js script. This is because you need admin permission to add it, causing a logical nightmare.
